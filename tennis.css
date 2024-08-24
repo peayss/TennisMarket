@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+.card{
+    float: left; padding: 5px; width: 31%;}
+    /* display: inline-block;
+    width: 100px; height: 100px; */
+
